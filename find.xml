@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.javaadchoiceAlreadyAdded</mask>
+      <mask>*</mask>
+      <mask>*.j</mask>
+      <mask>*.build</mask>
+      <mask>*.buil</mask>
+      <mask>*.bui</mask>
+      <mask>*.bu</mask>
+      <mask>*.x</mask>
+      <mask>*.t</mask>
+      <mask>*.tx</mask>
+      <mask>*.txt</mask>
+      <mask>*.ㅔ개</mask>
+      <mask>*.ㅔㄱ</mask>
+      <mask>*.ㅔ</mask>
+      <mask>*.p</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.xml</mask>
+      <mask>*.ㅎㄱㅁ</mask>
+      <mask>*.ㅎㄱ</mask>
+      <mask>*.ㅎ</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.pro</mask>
+      <mask>*.gradle</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
